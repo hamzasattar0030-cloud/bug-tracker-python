@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Login button not working",
+        "description": "Clicking login does nothing and user cannot access account",
+        "priority": "high",
+        "status": "Fixed",
+        "date_created": "2026-03-26"
+    },
+    {
+        "id": 2,
+        "title": "Password field accepts less than 6 characters",
+        "description": "The system allows users to create a password with only 3 characters",
+        "priority": "Medium",
+        "status": "Open",
+        "date_created": "2026-03-26"
+    },
+    {
+        "id": 3,
+        "title": "Page crashes when submitting empty form",
+        "description": "Submitting the form with no data causes the page to crash instead of showing validation",
+        "priority": "High",
+        "status": "Open",
+        "date_created": "2026-03-26"
+    }
+]
