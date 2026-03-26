@@ -1,19 +1,18 @@
-# Bug Tracker CLI
+# Python Bug Tracker CLI
 
-A simple Python command-line bug tracking tool built to practise programming fundamentals and QA-style defect management.
+A simple command-line bug tracking tool built using Python to simulate real-world defect management.
 
 ## Features
-- Add bugs
-- View saved bugs
-- Mark bugs as fixed
-- Track bug priority
-- Track date created
-- Save bug data in JSON format
+- Add and store bugs
+- Assign priority (Low, Medium, High)
+- Track bug status (Open / Fixed)
+- Automatically assign bug ID
+- Store date created
+- Save data using JSON
 
-## Tech Used
+## Technologies Used
 - Python
 - JSON
-- Visual Studio Code
 
 ## How to Run
 ```bash
